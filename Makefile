@@ -1,5 +1,5 @@
 PKG_NAME := bcachefs-tools
-URL = https://github.com/koverstreet/bcachefs-tools/archive/v1.7.0/bcachefs-tools-1.7.0.tar.gz
-ARCHIVES = $(CGIT_BASE_URL)/vendor/bcachefs-tools/snapshot/bcachefs-tools-2024-06-26-00-33-21.tar.xz ./vendor
+URL = https://evilpiepirate.org/bcachefs-tools/bcachefs-tools-vendored-1.9.1.tar.zst
+ARCHIVES = 
 
 include ../common/Makefile.common

@@ -1,7 +1,6 @@
-1.7.0
+1.9.1
 libaio-dev
 pkgconfig(blkid)
-pkgconfig(fuse3)
 pkgconfig(libkeyutils)
 pkgconfig(liblz4)
 pkgconfig(libsodium)
