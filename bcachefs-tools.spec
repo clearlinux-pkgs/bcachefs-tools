@@ -7,7 +7,7 @@
 #
 Name     : bcachefs-tools
 Version  : 1.9.1
-Release  : 2
+Release  : 3
 URL      : https://evilpiepirate.org/bcachefs-tools/bcachefs-tools-vendored-1.9.1.tar.zst
 Source0  : https://evilpiepirate.org/bcachefs-tools/bcachefs-tools-vendored-1.9.1.tar.zst
 Source1  : http://localhost/cgit/vendor/bcachefs-tools/snapshot/bcachefs-tools-2024-06-26-00-33-21.tar.xz
