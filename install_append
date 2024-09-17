@@ -1,0 +1,5 @@
+# Generate the shell completions
+mkdir -p %{buildroot}/usr/share/bash-completion/completions
+mkdir -p %{buildroot}/usr/share/zsh/site-functions
+%{buildroot}/usr/bin/bcachefs completions bash > %{buildroot}/usr/share/bash-completion/completions/bcachefs
+%{buildroot}/usr/bin/bcachefs completions zsh  > %{buildroot}/usr/share/zsh/site-functions/_bcachefs
